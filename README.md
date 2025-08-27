@@ -1,4 +1,4 @@
-💳 Payment Service (Mikroservis) – Simüle Ödeme Altyapısı
+💳 Payment Service (Mikroservis) –  Ödeme Mikroservisi 
 
 Bu servis, e-ticaret sisteminde ödeme işlemlerini senkron olarak yöneten bağımsız bir mikroservistir.
 
