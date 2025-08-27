@@ -17,4 +17,7 @@ Simülasyon: Girilen kart numarasına göre simüle edilir.
 Basit, temiz API: POST /api/payments
 
 
+!!! Ana mikroservise e-ticaret-mikroservis repository'den ulaşılabilinir
+
+
 
