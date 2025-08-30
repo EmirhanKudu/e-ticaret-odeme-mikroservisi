@@ -18,8 +18,6 @@ public class PaymentController {
     @PostMapping("/pay")
     public ResponseEntity<PaymentResponseDto> payment(@RequestBody PaymentRequestDto paymentRequestDto) {
          PaymentResponseDto paymentResponseDto = paymentService.payment(paymentRequestDto);
-
-
-        return ResponseEntity.ok(paymentResponseDto);
+         return ResponseEntity.ok(paymentResponseDto);
     }
 }
