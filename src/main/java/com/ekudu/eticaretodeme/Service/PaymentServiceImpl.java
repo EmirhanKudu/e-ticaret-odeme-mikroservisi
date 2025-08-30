@@ -17,7 +17,7 @@ public class PaymentServiceImpl implements PaymentService {
 
        if (Integer.parseInt(cardtoStr) % 2 == 0){
             paymentResponseDto.setSuccess(true);
-           paymentResponseDto.setMessage("Ödeme gerçekleşti");
+           paymentResponseDto.setMessage("Ödeme gerçekleşti!");
        }
        else {
            paymentResponseDto.setSuccess(false);
